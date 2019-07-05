@@ -15,7 +15,7 @@
 <br/>
 经文来源 1: [摩尼宝珠居士工作室](http://www.qldzj.com)
 <br/>
-经文来源 2: [地藏论坛乾隆大藏网站](http://www.bskk.net)
+经文来源 2: [地藏论坛乾隆大藏经网站](http://www.bskk.net)
 <br/>
 <br/>
 试阅读地址 1: [Coding](https://qldzj.coding.me/qldzj)(CN)<br/>
