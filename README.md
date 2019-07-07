@@ -13,9 +13,9 @@
 　　南无阿弥陀佛！！！
 <br/>
 <br/>
-经文来源 1: [摩尼宝珠居士工作室](http://www.qldzj.com)
+经文来源 1: [乾隆大藏经网站-地藏论坛](http://www.bskk.net)
 <br/>
-经文来源 2: [地藏论坛乾隆大藏经网站](http://www.bskk.net)
+经文来源 2: [摩尼宝珠居士工作室](http://www.qldzj.com)
 <br/>
 <br/>
 试阅读地址 1: [Coding](https://qldzj.coding.me/qldzj)(CN)<br/>
