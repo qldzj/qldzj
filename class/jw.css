@@ -8,7 +8,8 @@ body{
 	font-family:"AR PL UKai CN","AR PL UKai HK","楷体","KaiTi","华文楷体","STKaiti","Microsoft YaHei",微软雅黑;
 	font-size: 1.05em;
 	font-weight: bold;/******经文字体加粗****/
-	/*color: #FF9933;	*****经文字体颜色****/
+	color: #FF9933;	/******经文字体颜色****/
+	background-color: #ffffcc;	/******经文背景颜色****/
 }
 .top-bt{
 	width: 99%;
