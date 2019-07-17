@@ -13,9 +13,11 @@
 　　南无阿弥陀佛！！！
 <br/>
 <br/>
-经文来源 1: [乾隆大藏经网站-地藏论坛](http://www.bskk.net)
+经文来源 1(简体): [乾隆大藏经网站-地藏论坛](http://www.bskk.net)
 <br/>
-经文来源 2: ~~[摩尼宝珠居士工作室](http://www.qldzj.com)~~
+经文来源 2(简体): ~~[摩尼宝珠居士工作室](http://www.qldzj.com)~~(2014年以前校对的不可信)
+<br/>
+经文来源 3(繁体): [佛学世界-网络藏经阁](http://www.suttaworld.org/Collection_of_Buddhist/Chiarnlurng_Tripitaka/menu/index.htm)
 <br/>
 <br/>
 试阅读地址 1: [Coding](https://qldzj.coding.me/qldzj)(中国)<br/>
