@@ -20,7 +20,7 @@
 经文来源 3(繁体): [佛学世界-网络藏经阁](http://www.suttaworld.org/Collection_of_Buddhist/Chiarnlurng_Tripitaka/menu/index.htm)
 <br/>
 <br/>
-试阅读地址 1(中国): [Coding](https://qldzj.coding.me/qldzj)<br/>
+试阅读地址 1(中国): [Coding](https://qhqpfm.coding-pages.com)<br/>
 试阅读地址 2(中国): [Gitee](https://qldzj.gitee.io)<br/>
 试阅读地址 3(美国): [Github](https://git.io/qldzj)<br/>
 试阅读地址 4(美国): [Bitbucket](https://qldzj.bitbucket.io)<br/>
